@@ -22,3 +22,11 @@ LVQ learns a set of codebook vectors (prototypes) that represent clusters in the
 [XMeans model](https://github.com/fadodo/unsupervised_sentinel2__imagery_classification/blob/main/xmeans_clusterred.html)
 
 [LVQ model](https://github.com/fadodo/unsupervised_sentinel2__imagery_classification/blob/main/lvq_clustered.html)
+
+
+  <table style="border-collapse: collapse;">
+  <tr>
+    <td><img src="https://github.com/fadodo/unsupervised_sentinel2__imagery_classification/blob/main/xmeans_clusterred.png" alt="XMeans algorithms" width="500"></td>
+    <td><img src="https://github.com/fadodo/unsupervised_sentinel2__imagery_classification/blob/main/lvq_clustered.png" width="500"></td>
+  </tr>
+</table>
