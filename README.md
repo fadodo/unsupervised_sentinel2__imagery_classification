@@ -1,4 +1,4 @@
-# Unsupervised_sentinel2__imagery_classification
+# Unsupervised sentinel2 imagery Classification
 Unsupervised Sentinel 2 imagery land cover classification using GEE and geemap package
 
 Two clustering methods have been tested: 
@@ -17,6 +17,7 @@ LVQ learns a set of codebook vectors (prototypes) that represent clusters in the
 
 ## Discussions:
 - LVQ is potentially better at defining complex cluster shapes. Unlike X-means,LVQ isn't strictly tied to spherical clusters. It can adapt to more irregular cluster boundaries depending on the distribution of the training data.
+-  K-means-based algorithms are generally efficient for large datasets like satellite imagery and offers the ability to automatically estimates the number of clusters. A significant advantage over LVQ and standard K-means is its ability to determine a suitable number of clusters from the data, which can be very useful when the exact number of land cover types is unknown beforehand.
 
 [XMeans model](https://github.com/fadodo/unsupervised_sentinel2__imagery_classification/blob/main/xmeans_clusterred.html)
 
