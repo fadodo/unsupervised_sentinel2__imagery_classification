@@ -26,7 +26,8 @@ LVQ learns a set of codebook vectors (prototypes) that represent clusters in the
 
   <table style="border-collapse: collapse;">
   <tr>
-    <td><img src="https://github.com/fadodo/unsupervised_sentinel2__imagery_classification/blob/main/Capture%20d%E2%80%99%C3%A9cran%20du%202025-04-14%2014-15-46.png" width="500"></td>
-    <td><img src="https://github.com/fadodo/unsupervised_sentinel2__imagery_classification/blob/main/Capture%20d%E2%80%99%C3%A9cran%20du%202025-04-14%2014-13-04.png" width="500"></td>
+    <td><img src="https://github.com/fadodo/unsupervised_sentinel2__imagery_classification/blob/main/Capture%20d%E2%80%99%C3%A9cran%20du%202025-04-14%2014-15-46.png" width="300"></td>
+    <td><img src="https://github.com/fadodo/unsupervised_sentinel2__imagery_classification/blob/main/Capture%20d%E2%80%99%C3%A9cran%20du%202025-04-14%2014-10-35.png" width="300"></td>
+    <td><img src="https://github.com/fadodo/unsupervised_sentinel2__imagery_classification/blob/main/Capture%20d%E2%80%99%C3%A9cran%20du%202025-04-14%2014-13-04.png" width="300"></td>
   </tr>
 </table>
